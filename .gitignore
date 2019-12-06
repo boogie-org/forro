@@ -1,0 +1,8 @@
+Lexer.fs
+Parser.fs
+Parser.fsi
+
+bin/
+obj/
+
+.vs/
