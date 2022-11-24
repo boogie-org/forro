@@ -8,7 +8,7 @@ allocation and heap dereferencing. Memory allocation returns an integer, but
 you're told it's an integer that is "valid as a pointer". Heap dereferencing
 takes an integer, but requires that the integer is valid as a pointer.
 
-Build using .NET Core (3.1):
+Build using .NET 6.0:
 
 ```
 dotnet build src/Forro.sln
